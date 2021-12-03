@@ -1,5 +1,4 @@
 # SpringCloudDemo
-SpringCloud demo for study
 
 ### Spring Cloud Eureka构建微服务架构
 

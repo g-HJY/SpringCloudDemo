@@ -56,6 +56,9 @@ public class TokenFilter extends ZuulFilter {
             ctx.setResponseStatusCode(401);
             ctx.setResponseBody("token is empty");
         }
+
         return null;
     }
+
+
 }
